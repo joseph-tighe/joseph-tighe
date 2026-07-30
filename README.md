@@ -5,7 +5,7 @@ I am Joseph a high schooler, working on a bunch of random stuff.
 - typescript
 - Linux (Fedora)
 
-## favorites tech
+## favorite tech
 **languages:** C++, Python, Java, JavaScript
 
 **frontend:** pure HTML and CCS, occasionally some threejs
