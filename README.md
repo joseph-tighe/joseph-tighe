@@ -14,5 +14,5 @@ I am Joseph, a high schooler, working on a bunch of random stuff.
 
 ## featured projects
 - [action bar](https://github.com/joseph-tighe/action-bar) — a lightweight toolbar/component I built
-- [red string](https://github.com/joseph-tighe/red-string) — an experimental interactive project
-- [high schools robotics website](https://github.com/joseph-tighe/high-schools-robotics-website) — the website for my high school robotics team
+- [red string](https://github.com/joseph-tighe/red-string) — a browser extension for quickly citing pages
+- [blender bots website](https://github.com/joseph-tighe/high-schools-robotics-website) — the website for my high school robotics team
