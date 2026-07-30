@@ -1,0 +1,1 @@
+Turned the featured projects list in README.md into Markdown links pointing to matching repositories under the joseph-tighe account. Fixed typos (CSS, Node.js, Three.js) and added brief descriptions for each project.
